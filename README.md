@@ -58,6 +58,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rahul-ghoghari/rahul-ghoghari/ed5ca2a9eda346f2642d3ba81a2c44931ab4089f/output/snake.svg" alt="Snake animation" />
-
 ###
