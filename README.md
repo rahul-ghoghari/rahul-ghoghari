@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Rahul Ghoghari</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h3 align="left">A passionate web developer from India</h3>
 
 ###
 
@@ -7,14 +7,7 @@
 
 ###
 
-<p align="left">👨🏻‍🎓 Completed master in 2024.<br>📚 I'm currently learning ReactJs.<br>🤩 Enthusiastic learner.</p>
-
-###
-
-<img align="right" width="30%" src="https://raw.githubusercontent.com/rahul-ghoghari/rahul-ghoghari/main/design-uiux-services.gif"  />
-
-###
-
+<p align="left">📚 I'm currently learning ReactJs.<br>🤩 I'm enthusiastic learner.<br>👨🏻‍🎓 Completed master in 2024.</p>
 
 ###
 
@@ -75,8 +68,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-ghoghari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-ghoghari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-ghoghari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-ghoghari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="200" alt="languages graph"  />  
 </div>
 
 ###
